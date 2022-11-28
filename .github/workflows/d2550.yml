@@ -24,8 +24,8 @@ env:
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: d2550.config
-  DIY_P1_SH: d2550.sh
-  DIY_P2_SH: d2550.sh
+  DIY_P1_SH: d2550-1.sh
+  DIY_P2_SH: d2550-2.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
