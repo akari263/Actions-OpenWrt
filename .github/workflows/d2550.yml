@@ -34,7 +34,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  build:
+  d2550:
     runs-on: ubuntu-latest
    
     steps:
